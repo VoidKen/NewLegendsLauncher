@@ -1433,16 +1433,6 @@
           }
         },
         {
-          "id": "github.pitbox46:hiddennames:1.20.1-1.0.6@jar",
-          "name": "Hidden Names",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 47190,
-            "url": "https://raw.githubusercontent.com/VoidKen/NewLegendsLauncher/main/servers/NewLegends-1.20.1/forgemods/required/hiddennames-1.20.1-1.0.6.jar",
-            "MD5": "c1b8c0f021acffc102b9a56ada733ab3"
-          }
-        },
-        {
           "id": "com.hulkpower:hulkpower:6.1.1@jar",
           "name": "Hulk Power",
           "type": "ForgeMod",
