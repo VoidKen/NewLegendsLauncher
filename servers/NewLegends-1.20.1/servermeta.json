@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/Users/mojoh/Documents/NewLegends/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "NewLegends (Minecraft 1.20.1)",
+    "description": "NewLegends Running Minecraft 1.20.1 (Forge v47.2.0)",
+    "icon": "",
+    "address": "170.23.130.25:25581",
+    "discord": {
+      "shortId": "New Legends",
+      "largeImageText": "New Legends",
+      "largeImageKey": "new-legends-logo"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "47.2.0"
+  },
+  "untrackedFiles": []
+}
