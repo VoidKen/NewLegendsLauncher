@@ -1083,13 +1083,13 @@
           }
         },
         {
-          "id": "generated.forgemod:essential_1:5-0-1_forge_1-20-1@jar",
+          "id": "generated.forgemod:essential_1:5-1_forge_1-20-1@jar",
           "name": "Essential_1",
           "type": "ForgeMod",
           "artifact": {
-            "size": 51449591,
-            "url": "https://raw.githubusercontent.com/VoidKen/NewLegendsLauncher/main/servers/NewLegends-1.20.1/forgemods/required/Essential_1-5-0-1_forge_1-20-1.jar",
-            "MD5": "d44983a31ef54c89ea51e40e811099b5"
+            "size": 51478847,
+            "url": "https://raw.githubusercontent.com/VoidKen/NewLegendsLauncher/main/servers/NewLegends-1.20.1/forgemods/required/Essential_1-5-1_forge_1-20-1.jar",
+            "MD5": "9de7b16f4ece519834a30351a44df326"
           }
         },
         {
