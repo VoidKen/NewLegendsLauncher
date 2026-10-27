@@ -1,0 +1,9 @@
+
+#Doom Grimoire
+[grimoire]
+	#Number of spell rows in the grimoire (each row = 9 spell slots).
+	#The grimoire window resizes to fit this, and shrinks itself on screen if needed.
+	#Lowering this below what a book already stores will drop the spells in the removed rows.
+	#Range: 4 ~ 20
+	spellRows = 12
+

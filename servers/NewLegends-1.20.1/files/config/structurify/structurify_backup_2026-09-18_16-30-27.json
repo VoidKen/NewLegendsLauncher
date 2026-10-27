@@ -1,0 +1,22 @@
+{
+  "config_version": "2.0.38",
+  "config_datetime": "2026-09-18_16-30-00",
+  "general": {},
+  "structure_namespaces": [],
+  "structures": [
+    {
+      "name": "powerborne:crashed_kryptonian_pod",
+      "is_disabled": true
+    },
+    {
+      "name": "powerborne:crashed_kryptonian_pod_desert",
+      "is_disabled": true
+    },
+    {
+      "name": "powerborne:mjolnir_crash_site",
+      "is_disabled": true
+    }
+  ],
+  "structure_sets": [],
+  "structure_template_pools": []
+}

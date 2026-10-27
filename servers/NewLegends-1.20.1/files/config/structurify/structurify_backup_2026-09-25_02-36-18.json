@@ -1,0 +1,50 @@
+{
+  "config_version": "2.0.38",
+  "config_datetime": "2026-09-18_16-30-27",
+  "general": {},
+  "structure_namespaces": [],
+  "structures": [
+    {
+      "name": "fsang:abandoned_prison",
+      "is_disabled": true
+    },
+    {
+      "name": "fsang:fallen_ship",
+      "is_disabled": true
+    },
+    {
+      "name": "fsang:kryptonite_meteor",
+      "is_disabled": true
+    },
+    {
+      "name": "fsang:meteor_symbiote",
+      "is_disabled": true
+    },
+    {
+      "name": "fsang:mjolnir",
+      "is_disabled": true
+    },
+    {
+      "name": "fsang:radiant_black_hole",
+      "is_disabled": true
+    },
+    {
+      "name": "fsang:radioactive_lake",
+      "is_disabled": true
+    },
+    {
+      "name": "powerborne:crashed_kryptonian_pod",
+      "is_disabled": true
+    },
+    {
+      "name": "powerborne:crashed_kryptonian_pod_desert",
+      "is_disabled": true
+    },
+    {
+      "name": "powerborne:mjolnir_crash_site",
+      "is_disabled": true
+    }
+  ],
+  "structure_sets": [],
+  "structure_template_pools": []
+}

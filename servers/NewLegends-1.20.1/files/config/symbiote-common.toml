@@ -1,0 +1,99 @@
+
+[meters]
+	#Bond lost per in-game day if no bond events occur.
+	#Range: 0 ~ 100
+	bond_decay_per_day = 1
+
+[stages]
+	#Bond at which the symbiote promotes from Attached → Integrated.
+	#Range: 1 ~ 1000
+	stage_integrated_bond = 120
+	#Bond at which the symbiote promotes Integrated → Cooperative (it becomes a partner and will start defying you).
+	#Range: 1 ~ 1000
+	stage_cooperative_bond = 240
+	#Bond at which the symbiote promotes Cooperative → Dominant (it takes over with the most power, and the most loss of control)
+	#Range: 1 ~ 1000
+	stage_dominant_bond = 400
+
+[bonding]
+	#Meteor crater rarity multiplier. 1 = default density. 2 = half as many craters, 4 = a quarter, and so on.
+	#Range: 1 ~ 16
+	crater_rarity = 1
+	#Probability that the dormant sample violently rejects the host on bonding. 0.10 = 10%.
+	#Range: 0.0 ~ 1.0
+	rejection_chance = 0.1
+
+[overrides]
+	#The symbiote physically pulls the body out of fire once panicked enough. false = it still panics, speaks, stresses, and the bond still pays for burns, without the movement.
+	fire_panic_pull = true
+	#Dominant symbiotes have short fights for the wheel that you lose (brief heavy slowness + vignette). Shipped OFF. true restores it.
+	control_struggles = false
+	#Unprompted defiance may physically move the body (this now hazard-checks lunges and staggers). Shipped OFF. true restores the shoves for whoever wants the full loss of control.
+	defiance_shoves = false
+	#Fire panic only triggers when the host is actually on fire or in lava (nether behavior, everywhere). false = the old preemptive panic near any fire source outside the nether.
+	fire_panic_contact_only = true
+	#Starving with no prey in grab range: the symbiote WALKS the host to prey within this range (INTEGRATED+, uses the forced-walk hijack), then eats it there. 0 disables stalking.
+	#Range: 0.0 ~ 64.0
+	hunger_stalk_range = 28.0
+	#A forced walk blocked by a closed WOODEN door rips it off with tendrils (drops the door item) and continues inside. Iron doors always stop it.
+	walk_door_rip = true
+	#A forced walk WEDGED by terrain (leaf ceilings, lips) bites the blocking blocks out with tendrils, with at most 2 per stall, 4 per walk, breakable blocks only, drops kept.
+	walk_terrain_bite = true
+	#Air nearly gone underwater: the symbiote seizes the body and hauls it straight up until it can breathe. Gives up after ~6s under solid ceiling.
+	drowning_save_enabled = true
+	#Buried alive: the arms burst whatever block is crushing the skull. Only bedrock-tier resists.
+	suffocation_dig_enabled = true
+	#Freezing in powder snow: the arms smash the snow around the body and shove it out.
+	freeze_escape_enabled = true
+
+[desires]
+	#The symbiote periodically ASKS for things (feed me / a kill / take me deep / the night / wear me). Fulfilling pays trust and calms it. Ignoring stresses it.
+	desires_enabled = true
+	#The gray hints for desires. Off means you figure it out yourself, for immersion.
+	desire_hints = true
+
+[curiosity]
+	#The organism notices species it has never met. Each species fires ONCE per bond: a line, and sometimes it walks you over to look at it.
+	curiosity_enabled = true
+	#Idle fidgets: stand still long enough and a tendril pokes at nearby blocks, or tastes the rain. Pure body language.
+	fidget_enabled = true
+
+[expansion]
+	#Enemy Slam: when exactly two close threats trigger the defense override, grab both, lift, and slam them together.
+	slam_enabled = true
+	#If true, Tendril Lash / feeding hunt skip tamed pets, named mobs, and other players.
+	protect_allies = true
+
+[emotional]
+	#EM-8: the organism gets possessive when another player (or a tamed pet/villager)
+	#lingers close to its host for a sustained stretch, firing a jealous line + a
+	#red pull. Cosmetic flavor only.
+	jealousy_enabled = true
+	#Death rework: TRUE = the bond simply survives death (respawn still bonded,
+	#items follow vanilla rules). The zero-friction toggle for players who asked
+	#to never lose their symbiote. Overrides death_mass_enabled.
+	death_keeps_bond = false
+	#Death rework (DEFAULT): on death the symbiote remains at the death point as
+	#a mass holding your ENTIRE inventory, exactly as you had it. Return to it and
+	#the same organism rebonds and gives everything back. Only answers to its host.
+	#Deaths the symbiote itself causes (consumption, rejection) leave nothing.
+	#FALSE (with death_keeps_bond false) = v1.0 behavior: death ends the bond.
+	death_mass_enabled = true
+	#The mantle as the organism's face: at Cooperative+, the shoulder tendrils rise
+	#on their own when the mood turns (anxious flare, coiled strike-arch, grieving
+	#droop) and lean after whatever the gaze fixes on. Content = they tuck away.
+	#OFF disables only the MOOD trigger and postures. The drape still rises with
+	#Living Armor, during body hijacks, underwater, and after fire saves.
+	mantle_moods_enabled = true
+	#Predator strain night prowls: at night the organism sometimes seizes your
+	#body turning your armor on, drape out, and it lunges. IT will force a fight
+	#with a nearby hostile until the prey is dead or lost. Rare on purpose.
+	predator_hunt_enabled = true
+
+[debug]
+	#Most tendrils allowed in one dimension at once. Range is 40 to 2000
+	#Range: 40 ~ 2000
+	tendril_cap = 220
+	#If true, the mod's full gameplay event stream prints to the console (and SYMBIOTE_DEBUG state lines with it). Off, the release build keeps the console quiet. Turn on when reporting a bug. Spammy.
+	verbose_logging = false
+

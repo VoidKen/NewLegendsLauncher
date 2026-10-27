@@ -1,0 +1,5 @@
+#Enable Hulk wall climbing. Toggle with the configured movement key.
+wallClimbingEnabled = true
+#When Hulk takes over, watch him from the dark room and calm Banner's heartbeat to take control back. Off: hold jump to resist instead.
+takeoverRoomEnabled = true
+

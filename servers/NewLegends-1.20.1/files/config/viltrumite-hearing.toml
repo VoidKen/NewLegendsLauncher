@@ -1,0 +1,14 @@
+
+[hearing]
+	#Viltrumites can switch on Super Hearing (Sneak + the Boost key)
+	enabled = true
+	#How far away a Viltrumite with Super Hearing hears other players' proximity voice chat (Simple Voice Chat)
+	#Range: 64 ~ 8192
+	voiceRange = 1000
+	#How far away ordinary sounds (footsteps, mobs, doors, blocks) reach a Viltrumite with Super Hearing
+	#Range: 32 ~ 512
+	soundRange = 160
+	#How far away loud sounds (explosions, thunder, screams, roars, bells) reach a Viltrumite with Super Hearing
+	#Range: 32 ~ 1024
+	loudRange = 320
+

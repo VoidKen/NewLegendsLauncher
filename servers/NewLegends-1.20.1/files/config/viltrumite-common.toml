@@ -1,0 +1,45 @@
+
+[destruction]
+	#Boost flight, explosive punches and the terrain throw break blocks (a held body never does)
+	griefing = true
+	#Hardest block that can be smashed (stone 1.5, iron block 5, obsidian 50)
+	#Range: 0.0 ~ 100.0
+	maxHardness = 20.0
+	#Smashed blocks drop as items (off = less lag)
+	dropBlocks = false
+
+[genes]
+	#Multiplier on every training gain
+	#Range: 0.01 ~ 100.0
+	trainingSpeed = 1.0
+	#Strength gained per dumbbell rep, relative to the default
+	#Range: 0.0 ~ 100.0
+	dumbbellSpeed = 1.0
+	#Max health at 0% durability
+	#Range: 1.0 ~ 1000.0
+	startHealth = 30.0
+	#Max health at 100% durability
+	#Range: 1.0 ~ 1000.0
+	maxHealth = 60.0
+	#Punch damage at 0% strength
+	#Range: 1.0 ~ 1000.0
+	startDamage = 8.0
+	#Punch damage at 100% strength
+	#Range: 1.0 ~ 1000.0
+	maxDamage = 30.0
+	#Damage reduction at 100% durability (0.5 = 50%; rage adds 0.15)
+	#Range: 0.0 ~ 0.95
+	maxReduction = 0.5
+	#Flight speed at 0% flight training (boost doubles it)
+	#Range: 0.1 ~ 20.0
+	flightSpeedUntrained = 1.0
+	#Flight speed at 100% flight training (boost doubles it). Most of the gain comes late in the training,
+	#and flying past ~5 for a long time heats the skin up from air friction (visual only)
+	#Range: 0.1 ~ 20.0
+	flightSpeedMastered = 6.0
+	#Arrows, bullets and other projectiles bounce off
+	projectileImmune = true
+	#Breath reserve in Minecraft days (lore: two weeks)
+	#Range: 0 ~ 365
+	breathDays = 14
+

@@ -1,0 +1,6 @@
+#Allowed Values: TOP_LEFT, TOP_RIGHT, BOTTOM_LEFT, BOTTOM_RIGHT, HIDDEN
+abilityBarPosition = "BOTTOM_RIGHT"
+disablePalladiumHubButton = false
+addonPackDevMode = false
+accessoryButton = true
+

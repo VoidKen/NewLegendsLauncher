@@ -1,0 +1,103 @@
+
+[visuals]
+	#Allowed Values: POTATO, LOW, MEDIUM, HIGH, ULTRA, CUSTOM
+	space_preset = "CUSTOM"
+	#Range: 0 ~ 4
+	space_body_quality = 0
+	sphere_planets = false
+	circle_rings = false
+	sphere_blackhole = false
+	#Range: 0 ~ 3
+	blackhole_quality = 3
+	blackhole_accretion_disk = true
+	#Range: 0.0 ~ 2.0
+	blackhole_warp_strength = 0.0
+	#Range: 0.0 ~ 3.0
+	blackhole_disk_brightness = 1.0
+	#Range: 0.0 ~ 3.0
+	blackhole_photon_ring_brightness = 1.0
+	#Range: 16.0 ~ 512.0
+	blackhole_interior_visibility = 96.0
+	sphere_galaxies = false
+	#Range: 0 ~ 3
+	galaxy_quality = 3
+	#Range: 0.25 ~ 2.0
+	galaxy_star_density = 1.7
+	#Range: 0.0 ~ 2.0
+	galaxy_glow_strength = 0.78
+	galaxy_dust_lanes = true
+	space_meteors = true
+	#Range: 0 ~ 3
+	space_meteor_quality = 3
+	space_distant_structures = true
+	#Range: 0.25 ~ 4.0
+	space_distant_structure_detail = 1.0
+	#Range: 0.0 ~ 1.5
+	space_meteor_density = 0.45
+	#Range: 256.0 ~ 8192.0
+	space_meteor_render_distance = 1800.0
+	#Range: 0.1 ~ 64.0
+	space_meteor_min_size = 1.5
+	#Range: 0.1 ~ 128.0
+	space_meteor_max_size = 8.0
+	meteor_ring_physics = true
+	#Range: 0 ~ 3
+	meteor_ring_quality = 3
+	#Range: 16 ~ 256
+	meteor_ring_collision_budget = 256
+	space_lighting = false
+	#Range: 0.0 ~ 4.0
+	space_lighting_star_strength = 0.66
+	#Range: 0.0 ~ 1.0
+	space_lighting_shadow_strength = 0.17
+	#Range: 4.0 ~ 96.0
+	space_lighting_shadow_range = 24.0
+	#Range: 0.0 ~ 4.0
+	space_lighting_light_strength = 1.5
+	#Range: 0.0 ~ 1.0
+	space_lighting_ambient = 0.08
+	#Range: 0.2 ~ 3.0
+	space_lighting_exposure = 1.0
+	#Range: 0 ~ 4
+	space_lighting_quality = 3
+	#Range: 32.0 ~ 512.0
+	space_lighting_range = 192.0
+	#Range: 0.0 ~ 3.0
+	space_lighting_softness = 1.0
+	#Range: 0.0 ~ 2.0
+	space_lighting_ao = 1.0
+	#Range: 0.25 ~ 6.0
+	space_lighting_ao_radius = 1.6
+	#Range: 0.0 ~ 1.0
+	space_lighting_delight = 1.0
+	#Range: 0.0 ~ 2.0
+	space_lighting_reflections = 1.0
+	space_lighting_deferred = false
+	#Range: 0.0 ~ 1.0
+	space_lighting_world_blend = 1.0
+	space_lighting_vanilla_shadows = false
+	space_lighting_entity_shadows = true
+	space_lighting_terrain_shadows = true
+	#Range: 0.0 ~ 3.0
+	space_lighting_bloom = 0.45
+	#Range: 0.0 ~ 3.0
+	space_lighting_bloom_threshold = 0.8
+	#Range: 0.0 ~ 3.0
+	space_lighting_gi = 1.0
+	#Range: 0.0 ~ 2.0
+	space_lighting_specular = 0.35
+	#Range: 0.0 ~ 2.0
+	space_lighting_volumetrics = 0.5
+	#Range: 0.0 ~ 3.0
+	space_lighting_bounce = 1.0
+	#Range: 0.0 ~ 3.0
+	space_atmosphere_density = 1.0
+	#Range: 0.0 ~ 100.0
+	space_body_roundness = 0.0
+	#Range: 0.0 ~ 3.0
+	space_star_glare = 0.0
+	#Range: 0.0 ~ 1.0
+	space_lighting_distance_falloff = 0.0
+	#Range: 0.01 ~ 180.0
+	space_lighting_reference_angle = 0.53
+

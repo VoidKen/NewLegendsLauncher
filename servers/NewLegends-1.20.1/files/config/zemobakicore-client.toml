@@ -1,0 +1,25 @@
+#SLIM: thin unicode font. VANILLA: the normal Minecraft font.
+#Allowed Values: SLIM, VANILLA
+font = "SLIM"
+
+#Move list on the left of the screen
+[moves]
+	#ALWAYS: always shown. FADE: shown a few seconds after you use a move or hold Shift. ACTIVE_ONLY: only moves on cooldown or running.
+	#Allowed Values: ALWAYS, FADE, ACTIVE_ONLY
+	mode = "ALWAYS"
+	#Size of the move list
+	#Range: 0.5 ~ 2.0
+	scale = 1.0
+	#Vertical position of the list center (0 = top, 1 = bottom)
+	#Range: 0.1 ~ 0.9
+	y = 0.5
+	#Show the power name above the list
+	showPowerName = true
+
+#Health / armor / food bars on the hotbar
+[vitals]
+	#WITH_POWER: the custom bars replace the vanilla hearts/armor/food only while you have a power from a linked mod.
+	#ALWAYS: always replace them. OFF: always vanilla.
+	#Allowed Values: ALWAYS, WITH_POWER, OFF
+	mode = "WITH_POWER"
+

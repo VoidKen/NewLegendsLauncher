@@ -1,0 +1,5 @@
+
+[gameplay]
+	#Range: 0.0 ~ 1.0
+	rubber_sap_drop_chance = 0.35
+

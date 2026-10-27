@@ -1,0 +1,70 @@
+{
+  "config_version": "2.0.41",
+  "config_datetime": "2026-09-25_02-43-36",
+  "general": {},
+  "structure_namespaces": [],
+  "structures": [
+    {
+      "name": "a_new_corps:lantern_meteorite",
+      "is_disabled": true
+    },
+    {
+      "name": "a_new_corps:white_temple",
+      "is_disabled": true
+    },
+    {
+      "name": "batman_mod:lazarus_pit",
+      "is_disabled": true
+    },
+    {
+      "name": "batman_mod:league_temple",
+      "is_disabled": true
+    },
+    {
+      "name": "fsang:abandoned_prison",
+      "is_disabled": true
+    },
+    {
+      "name": "fsang:fallen_ship",
+      "is_disabled": true
+    },
+    {
+      "name": "fsang:kryptonite_meteor",
+      "is_disabled": true
+    },
+    {
+      "name": "fsang:meteor_symbiote",
+      "is_disabled": true
+    },
+    {
+      "name": "fsang:mjolnir",
+      "is_disabled": true
+    },
+    {
+      "name": "fsang:radiant_black_hole",
+      "is_disabled": true
+    },
+    {
+      "name": "fsang:radioactive_lake",
+      "is_disabled": true
+    },
+    {
+      "name": "powerborne:crashed_kryptonian_pod",
+      "is_disabled": true
+    },
+    {
+      "name": "powerborne:crashed_kryptonian_pod_desert",
+      "is_disabled": true
+    },
+    {
+      "name": "powerborne:mjolnir_crash_site",
+      "is_disabled": true
+    },
+    {
+      "name": "symbiote:meteor_crash",
+      "is_disabled": true
+    }
+  ],
+  "structure_sets": [],
+  "structure_template_pools": []
+}

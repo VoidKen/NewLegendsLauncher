@@ -1,0 +1,28 @@
+
+#Regenerative Zones Configuration
+[general]
+	#Average ticks a block takes to regenerate
+	#Range: 1 ~ 3456000
+	average_regeneration_ticks = 120
+	#Refills chests via a loot table if they are regenerated, pair with remove_chests_after_open to regenerate loot inside zones. If false chests will regenerate with the contents they has been saved with
+	refill_chests = false
+	#Removes chests after they have been opened
+	remove_chests_after_open = false
+	#Ticks until chest removal is executed
+	#Range: 1 ~ 72000
+	remove_chests_tick = 120
+	#Use custom loot table for chest regeneration. If false, chests will try to regenerate with the loot table they have spawned with. The latter only works if the chest was unopened when the zone was saved
+	custom_loot_table_on = false
+	#Custom Loot table used for zone regeneration chests
+	custom_loot_table = ""
+	#Force load zones by default (usually not necessary)
+	force_load_zones = false
+	#Only regenerates blocks that have a solid neighbor, if a floating block is attempted to generate, it regenerates one that isn't instead
+	check_if_solid_neighbor = true
+	#Removes blocks that are added to positions where the zone normally has air
+	remove_placed = true
+	#Will delay regeneration by delay_ticks since last damaged
+	delay_regen = false
+	#Range: 1 ~ 72000
+	delay_ticks = 100
+

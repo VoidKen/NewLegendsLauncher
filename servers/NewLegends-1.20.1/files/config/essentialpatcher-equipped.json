@@ -1,0 +1,10 @@
+{
+  "equipped": {
+    "CAPE": "CAPE_DISABLED",
+    "ICON": "BASE_ICON"
+  },
+  "settings": {
+    "CAPE_DISABLED": [],
+    "BASE_ICON": []
+  }
+}

@@ -1,0 +1,7 @@
+
+[client]
+	#The tendril membrane around the screen edges (ambient while bonded, surging during body control). Set false to hide it entirely.
+	tendril_overlay = true
+	#Sculk sonar echo blips (the diamonds drawn when a shaderpack is active). Set false for clean recordings.
+	sculk_echo_blips = true
+

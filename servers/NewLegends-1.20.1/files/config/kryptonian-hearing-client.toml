@@ -1,0 +1,6 @@
+#Additional hearing sound level. Existing game and voice mute/volume controls still apply.
+#Range: 0.0 ~ 1.0
+hearingVolume = 1.0
+#Quiet, brief ringing after a nearby loud event; disabled by default.
+overloadRinging = false
+

@@ -1,0 +1,12 @@
+{
+  "quizia": true,
+  "space_travel": true,
+  "block_mixer": false,
+  "elevator": false,
+  "fabricator": false,
+  "player_sensor": false,
+  "plushie": false,
+  "time_control": false,
+  "scaling": false,
+  "chromatix": false
+}
