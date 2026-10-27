@@ -1383,16 +1383,6 @@
           }
         },
         {
-          "id": "com.genos:genos:2@jar",
-          "name": "Genos",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1437054,
-            "url": "https://raw.githubusercontent.com/VoidKen/NewLegendsLauncher/main/servers/NewLegends-1.20.1/forgemods/required/genos-power-2%20(2).jar",
-            "MD5": "f32a4aad3bd6164ec55fecb965409db9"
-          }
-        },
-        {
           "id": "com.glodblock.github:glodium:1.20-1.5-forge@jar",
           "name": "Glodium",
           "type": "ForgeMod",
