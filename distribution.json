@@ -1433,6 +1433,16 @@
           }
         },
         {
+          "id": "github.pitbox46:hiddennames:1.20.1-1.0.6@jar",
+          "name": "Hidden Names",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 47190,
+            "url": "https://raw.githubusercontent.com/VoidKen/NewLegendsLauncher/main/servers/NewLegends-1.20.1/forgemods/required/hiddennames-1.20.1-1.0.6.jar",
+            "MD5": "c1b8c0f021acffc102b9a56ada733ab3"
+          }
+        },
+        {
           "id": "com.hulkpower:hulkpower:6.1.1@jar",
           "name": "Hulk Power",
           "type": "ForgeMod",
@@ -2540,16 +2550,6 @@
             "size": 536782,
             "url": "https://raw.githubusercontent.com/VoidKen/NewLegendsLauncher/main/servers/NewLegends-1.20.1/forgemods/required/waystones-forge-1.20.1-14.1.21.jar",
             "MD5": "d61d808c97ffd5a48c8b58969219b557"
-          }
-        },
-        {
-          "id": "com.wolverinepower:wolverinepower:1.0.92@jar",
-          "name": "Wolverine: Weapon X",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 616901,
-            "url": "https://raw.githubusercontent.com/VoidKen/NewLegendsLauncher/main/servers/NewLegends-1.20.1/forgemods/required/wolverine-power-1.0.92.jar",
-            "MD5": "80da5f1c13437676c5e7316df9f7affc"
           }
         },
         {
