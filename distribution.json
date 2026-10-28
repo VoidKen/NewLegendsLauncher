@@ -2013,16 +2013,6 @@
           }
         },
         {
-          "id": "net.threetag:palladium:4.5.9@jar",
-          "name": "Palladium",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2870689,
-            "url": "https://raw.githubusercontent.com/VoidKen/NewLegendsLauncher/main/servers/NewLegends-1.20.1/forgemods/required/palladium-4.5.9+1.20.1-forge%20(2).jar",
-            "MD5": "7c27f7035643ad556a37964f6d3dce5b"
-          }
-        },
-        {
           "id": "net.threetag:pantheonsent:1.1.1@jar",
           "name": "PantheonSent",
           "type": "ForgeMod",
