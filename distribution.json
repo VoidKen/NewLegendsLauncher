@@ -793,6 +793,16 @@
           }
         },
         {
+          "id": "chrono_api:chrono_api:1.0.4@jar",
+          "name": "Chrono API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1663464,
+            "url": "https://raw.githubusercontent.com/VoidKen/NewLegendsLauncher/main/servers/NewLegends-1.20.1/forgemods/required/Chrono%20API-1.0.4+1.20.1-forge.jar",
+            "MD5": "bf48a0cf478d7cf4e120eba8b5e3bbd4"
+          }
+        },
+        {
           "id": "com.voidk:claimshop:1.0.1@jar",
           "name": "Claims Shop",
           "type": "ForgeMod",
