@@ -1493,6 +1493,16 @@
           }
         },
         {
+          "id": "net.pugmeowla:infinity:7.4@jar",
+          "name": "Pugmeowla's Infinity Stone Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6666218,
+            "url": "https://raw.githubusercontent.com/VoidKen/NewLegendsLauncher/main/servers/NewLegends-1.20.1/forgemods/required/infinity-8.0.jar",
+            "MD5": "38cf45eebdc7c06727076eb751c17bf0"
+          }
+        },
+        {
           "id": "insane96mcp.insanelib:insanelib:1.23.4.6@jar",
           "name": "InsaneLib",
           "type": "ForgeMod",
