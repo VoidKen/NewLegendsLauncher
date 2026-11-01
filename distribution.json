@@ -2593,13 +2593,13 @@
           }
         },
         {
-          "id": "com.bluebeetle:bluebeetle:1.15.5@jar",
+          "id": "com.bluebeetle:bluebeetle:1.15.6@jar",
           "name": "Blue Beetle Power",
           "type": "ForgeMod",
           "artifact": {
-            "size": 8793998,
-            "url": "https://raw.githubusercontent.com/VoidKen/NewLegendsLauncher/main/servers/NewLegends-1.20.1/forgemods/required/ZemoBakiDCUniverse-3.jar",
-            "MD5": "9e5dc2f4443cf93e7921778f37ccabb1"
+            "size": 8796133,
+            "url": "https://raw.githubusercontent.com/VoidKen/NewLegendsLauncher/main/servers/NewLegends-1.20.1/forgemods/required/ZemoBakiDCUniverse-4.jar",
+            "MD5": "0420b3154aa520adafee6ec2d1118637"
           }
         },
         {
