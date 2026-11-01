@@ -2353,6 +2353,16 @@
           }
         },
         {
+          "id": "net.p3pp3rf1y:sophisticatedstorage:1.4.86.2131@jar",
+          "name": "Sophisticated Storage",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1867685,
+            "url": "https://raw.githubusercontent.com/VoidKen/NewLegendsLauncher/main/servers/NewLegends-1.20.1/forgemods/required/sophisticatedstorage-1.20.1-1.4.86.2131.jar",
+            "MD5": "0f7f4546d8c23019a1852b1494d16910"
+          }
+        },
+        {
           "id": "me.lucko:spark:1.10.53@jar",
           "name": "Spark",
           "type": "ForgeMod",
