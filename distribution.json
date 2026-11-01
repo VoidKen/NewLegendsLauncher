@@ -673,13 +673,13 @@
           }
         },
         {
-          "id": "com.batman:batman:1.14.1@jar",
+          "id": "com.batman:batman:2.2.1@jar",
           "name": "Batman",
           "type": "ForgeMod",
           "artifact": {
-            "size": 18869154,
-            "url": "https://raw.githubusercontent.com/VoidKen/NewLegendsLauncher/main/servers/NewLegends-1.20.1/forgemods/required/batman-power-1.14.1.jar",
-            "MD5": "c55c2cae75d7aa39abfa9e86373b11d6"
+            "size": 11101367,
+            "url": "https://raw.githubusercontent.com/VoidKen/NewLegendsLauncher/main/servers/NewLegends-1.20.1/forgemods/required/batman-power-2.jar",
+            "MD5": "db4052864c5c989b9f02a93514607faf"
           }
         },
         {
@@ -2600,6 +2600,16 @@
             "size": 162052,
             "url": "https://raw.githubusercontent.com/VoidKen/NewLegendsLauncher/main/servers/NewLegends-1.20.1/forgemods/required/zemobakicore-1.1.1.jar",
             "MD5": "e837d26c21581bb40165356503bfb670"
+          }
+        },
+        {
+          "id": "com.bluebeetle:bluebeetle:1.15.5@jar",
+          "name": "Blue Beetle Power",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 8793998,
+            "url": "https://raw.githubusercontent.com/VoidKen/NewLegendsLauncher/main/servers/NewLegends-1.20.1/forgemods/required/ZemoBakiDCUniverse-3.jar",
+            "MD5": "9e5dc2f4443cf93e7921778f37ccabb1"
           }
         },
         {
