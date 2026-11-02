@@ -1,0 +1,19 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "NewLegendsLauncher"
+
+[ejs.landing]
+mediaGitHubURL = "https://github.com/VoidKen/NewLegendsLauncher"
+mediaXURL = "#"
+mediaInstagramURL = "#"
+mediaYouTubeURL = "https://www.youtube.com/@NewLegendss"
+mediaDiscordURL = "https://discord.gg/FDddqp3jzA"
+
+[ejs.settings]
+sourceGithubLink = "https://github.com/VoidKen/NewLegendsLauncher"
+supportLink = "https://github.com/VoidKen/NewLegendsLauncher/issues"
+
+[ejs.welcome]
+welcomeHeader = "WELCOME TO The Standalone New Legends Launcher"
+welcomeDescription = "This is the standalone launcher for the New legends Modpack"
