@@ -673,13 +673,13 @@
           }
         },
         {
-          "id": "com.batman:batman:2.2.1@jar",
+          "id": "com.batman:batman:2.2.4@jar",
           "name": "Batman",
           "type": "ForgeMod",
           "artifact": {
-            "size": 11101367,
-            "url": "https://raw.githubusercontent.com/VoidKen/NewLegendsLauncher/main/servers/NewLegends-1.20.1/forgemods/required/batman-power-2.jar",
-            "MD5": "db4052864c5c989b9f02a93514607faf"
+            "size": 11087119,
+            "url": "https://raw.githubusercontent.com/VoidKen/NewLegendsLauncher/main/servers/NewLegends-1.20.1/forgemods/required/batman-power-2.2.jar",
+            "MD5": "da4b0d0d7744536a12c73b3685d5bbee"
           }
         },
         {
@@ -1380,6 +1380,16 @@
             "size": 1038209,
             "url": "https://raw.githubusercontent.com/VoidKen/NewLegendsLauncher/main/servers/NewLegends-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.8.4.jar",
             "MD5": "83c73bcbf5778235569025ed968dc3ec"
+          }
+        },
+        {
+          "id": "com.genos:genos:2@jar",
+          "name": "Genos",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1440861,
+            "url": "https://raw.githubusercontent.com/VoidKen/NewLegendsLauncher/main/servers/NewLegends-1.20.1/forgemods/required/genos-power-3.jar",
+            "MD5": "5156b91af1ee497af68dcc327029cc18"
           }
         },
         {
