@@ -2113,16 +2113,6 @@
           }
         },
         {
-          "id": "generated.forgemod:powerborne:0.5.1@jar",
-          "name": "Powerborne Heroes",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3072125,
-            "url": "https://raw.githubusercontent.com/VoidKen/NewLegendsLauncher/main/servers/NewLegends-1.20.1/forgemods/required/powerborne-heroes-1.20.1-0.5.1.jar",
-            "MD5": "c8b94135e39fa90cc25d0ab3976b6057"
-          }
-        },
-        {
           "id": "com.owleafstudio:protectedarea:1.0.7-forge-1.20.1@jar",
           "name": "ProtectedArea",
           "type": "ForgeMod",
@@ -2190,6 +2180,16 @@
             "size": 241055,
             "url": "https://raw.githubusercontent.com/VoidKen/NewLegendsLauncher/main/servers/NewLegends-1.20.1/forgemods/required/rehooked-1.8.3-1.20.1.jar",
             "MD5": "1adbc3bb406daa5ace83533c4097b2ea"
+          }
+        },
+        {
+          "id": "generated.forgemod:p_sing:1.0.0@jar",
+          "name": "UnOrthodox",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9068025,
+            "url": "https://raw.githubusercontent.com/VoidKen/NewLegendsLauncher/main/servers/NewLegends-1.20.1/forgemods/required/renox-V2.jar",
+            "MD5": "81a6e9e682e1048be7cf4cf342e28322"
           }
         },
         {
