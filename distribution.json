@@ -1343,6 +1343,19 @@
           }
         },
         {
+          "id": "com.serilum:fullbrightnesstoggle:4.9@jar",
+          "name": "Full Brightness Toggle",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 32416,
+            "url": "https://raw.githubusercontent.com/VoidKen/NewLegendsLauncher/main/servers/NewLegends-1.20.1/forgemods/optionalon/fullbrightnesstoggle-1.20.1-4.9.jar",
+            "MD5": "d98471a56c2106be1fedaae1030d2d52"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.yablon:furnitury:4.0.0@jar",
           "name": "Furnitury",
           "type": "ForgeMod",
