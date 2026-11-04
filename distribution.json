@@ -2513,9 +2513,9 @@
           "name": "Solar Kryptonian",
           "type": "ForgeMod",
           "artifact": {
-            "size": 586864,
-            "url": "https://raw.githubusercontent.com/VoidKen/NewLegendsLauncher/main/servers/NewLegends-1.20.1/forgemods/required/Val-Zor.jar",
-            "MD5": "f852500bf5df07fc4f2af609f0b988eb"
+            "size": 612424,
+            "url": "https://raw.githubusercontent.com/VoidKen/NewLegendsLauncher/main/servers/NewLegends-1.20.1/forgemods/required/Val-Zor%20(3).jar",
+            "MD5": "b05f18c39d6aee38a4dfe062062c6fd5"
           }
         },
         {
@@ -2646,6 +2646,16 @@
             "size": 8797068,
             "url": "https://raw.githubusercontent.com/VoidKen/NewLegendsLauncher/main/servers/NewLegends-1.20.1/forgemods/required/ZemoBakiDCUniverse-5.jar",
             "MD5": "8ee52ef8623d226b7ebd04671e317fc1"
+          }
+        },
+        {
+          "id": "com.doctorstrange:doctorstrange:1.3.15@jar",
+          "name": "Doctor Strange",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3175554,
+            "url": "https://raw.githubusercontent.com/VoidKen/NewLegendsLauncher/main/servers/NewLegends-1.20.1/forgemods/required/ZemoBakiMarvelUniverse-5.jar",
+            "MD5": "fa481a7d01c91f9c827b5a7f2a4dd1dd"
           }
         },
         {
