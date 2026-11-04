@@ -633,6 +633,16 @@
           }
         },
         {
+          "id": "com.ares:ares:power-1.0.0@jar",
+          "name": "Ares",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2080500,
+            "url": "https://raw.githubusercontent.com/VoidKen/NewLegendsLauncher/main/servers/NewLegends-1.20.1/forgemods/required/ares-power-1.0.0.jar",
+            "MD5": "539d22b8ecd0d539e3716cea8da20330"
+          }
+        },
+        {
           "id": "net.darkhax:attributefix:21.0.5@jar",
           "name": "AttributeFix",
           "type": "ForgeMod",
@@ -1088,8 +1098,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 51478847,
-            "url": "https://raw.githubusercontent.com/VoidKen/NewLegendsLauncher/main/servers/NewLegends-1.20.1/forgemods/required/Essential_1-5-1_forge_1-20-1.jar",
+            "url": "https://raw.githubusercontent.com/VoidKen/NewLegendsLauncher/main/servers/NewLegends-1.20.1/forgemods/optionalon/Essential_1-5-1_forge_1-20-1.jar",
             "MD5": "9de7b16f4ece519834a30351a44df326"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -2493,6 +2506,16 @@
             "size": 19628,
             "url": "https://raw.githubusercontent.com/VoidKen/NewLegendsLauncher/main/servers/NewLegends-1.20.1/forgemods/required/Unexperienced-1.20-2.0.0.jar",
             "MD5": "268c853ab9873eee21a70910f1147d06"
+          }
+        },
+        {
+          "id": "com.solarkryptonian:solar_kryptonian:1.0.0@jar",
+          "name": "Solar Kryptonian",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 586864,
+            "url": "https://raw.githubusercontent.com/VoidKen/NewLegendsLauncher/main/servers/NewLegends-1.20.1/forgemods/required/Val-Zor.jar",
+            "MD5": "f852500bf5df07fc4f2af609f0b988eb"
           }
         },
         {
